@@ -4,6 +4,8 @@ Material  Action Bar
 Must have declare in  import
 
                        import android.support.v7.widget.Toolbar;
+                       
+   https://stackoverflow.com/questions/29025961/setsupportactionbar-toolbar-cannot-be-applied-to-android-widget-toolbar-error
 
 
 1.	First of all I create toolbar xml file with obliviously   
