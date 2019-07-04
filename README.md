@@ -3,7 +3,7 @@
 Material  Action Bar
 Must have declare in  import
 
-import android.support.v7.widget.Toolbar;
+                       import android.support.v7.widget.Toolbar;
 
 
 1.	First of all I create toolbar xml file with obliviously   
